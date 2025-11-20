@@ -43,7 +43,7 @@ def entrenar_knn_gridSearch(pipeline: Pipeline,
     grid = GridSearchCV(
         estimator=pipeline,
         param_grid=param_grid,
-        cv=5,
+        cv=2,
         scoring="accuracy",
         n_jobs=-1)
 
@@ -57,7 +57,7 @@ def preparar_y_entrenar_knn(x: pd.DataFrame, y: pd.Series) -> tuple[GridSearchCV
 
     #preprocesamos los datos
     preprocesador = construir_prepocesador(x.columns.tolist())
-          
+
     #creamos el pipeline
     pipe = construir_pipe(preprocesador)
 

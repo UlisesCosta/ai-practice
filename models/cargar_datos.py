@@ -11,4 +11,5 @@ def cargar_csv(csv_path: str) -> tuple[pd.DataFrame, pd.Series]:
     x = df.drop(columns=[categoria_col,resultado_col])
     y = df[categoria_col]
 
+    print("----DATOS----\n",x)
     return (x,y)

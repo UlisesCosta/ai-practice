@@ -14,3 +14,8 @@ y_pred = evaluar_modelo(grid, x_test, y_test)
 
 
 graficar_resultados(grid)
+
+print("----VARIABLES----\n",x.head())
+
+print("\n----CATEGORIAS----\n",y.head())
+
