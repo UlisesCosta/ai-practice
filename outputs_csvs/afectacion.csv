@@ -1,0 +1,262 @@
+instituto,semestre,carrera,edad,sexo,res1,res2,res3,res4,res5,res6,res7,res8,res9,res10,categoria,resultado
+I.T de Tuxtla Gutierrez,1,Sistemas,18,Hombre,1,2,2,5,4,2,5,5,5,5,4,36
+I.T de Tuxtla Gutierrez,1,Sistemas,19,Hombre,3,2,2,4,3,4,1,3,4,2,3,28
+I.T de Tuxtla Gutierrez,1,Sistemas,18,Hombre,3,4,4,3,1,5,2,2,4,5,4,33
+I.T de Tuxtla Gutierrez,1,Sistemas,18,Hombre,5,4,2,3,4,5,4,3,2,3,4,35
+I.T de Tuxtla Gutierrez,1,Sistemas,19,Hombre,4,3,3,4,3,5,3,3,4,4,4,36
+I.T de Tuxtla Gutierrez,1,Gestion Empresarial,18,Hombre,3,2,1,3,2,5,4,2,5,5,4,32
+I.T de Tuxtla Gutierrez,1,Sistemas,22,Hombre,2,3,3,3,2,4,4,3,4,4,4,32
+I.T de Tuxtla Gutierrez,1,Sistemas,18,Hombre,2,2,2,2,1,1,3,1,3,2,2,19
+I.T de Tuxtla Gutierrez,1,Sistemas,18,Hombre,3,2,2,3,2,5,4,1,5,5,4,32
+I.T de Tuxtla Gutierrez,1,Sistemas,18,Hombre,1,1,1,2,3,1,1,1,4,3,2,18
+I.T de Tuxtla Gutierrez,1,Sistemas,18,Hombre,2,2,2,1,1,5,3,2,5,5,3,28
+I.T de Tuxtla Gutierrez,1,Sistemas,18,Hombre,3,3,2,3,2,4,2,2,5,4,3,30
+I.T de Merida,1,Sistemas,19,Mujer,4,4,3,4,2,4,4,3,4,5,4,37
+I.T de Merida,1,Sistemas,21,Hombre,3,3,3,2,2,3,5,5,3,5,4,34
+I.T de Merida,1,Sistemas,20,Hombre,1,2,1,1,1,5,2,1,5,1,2,20
+I.T de Merida,1,Sistemas,18,Hombre,3,2,1,1,1,5,1,1,5,1,3,21
+I.T de Merida,1,Sistemas,18,Hombre,3,2,3,4,4,4,4,4,4,4,4,36
+I.T de Merida,1,Electronica,18,Hombre,1,1,1,1,1,1,1,1,1,1,1,10
+I.T de Merida,1,Sistemas,19,Hombre,1,1,1,1,1,4,1,1,5,1,2,17
+I.T de Merida,1,Sistemas,19,Hombre,4,4,3,3,2,3,4,3,4,2,4,32
+I.T de Merida,1,Sistemas,18,Hombre,2,4,4,2,5,5,5,2,5,4,4,38
+I.T de Merida,1,Sistemas,18,Hombre,2,4,4,2,5,5,5,2,5,4,4,40
+I.T de Merida,1,Sistemas,19,Hombre,1,1,1,1,1,1,1,1,1,1,1,10
+I.T de Merida,1,Sistemas,19,Mujer,1,1,1,1,1,1,1,1,1,1,2,11
+I.T de Merida,1,Sistemas,20,Hombre,3,4,2,3,1,4,2,2,5,2,3,28
+I.T de Merida,1,Sistemas,19,Mujer,4,4,4,4,4,3,3,3,5,5,4,39
+I.T de Merida,1,Sistemas,18,Mujer,1,2,3,4,3,5,1,1,5,1,3,26
+I.T de Merida,1,Sistemas,20,Hombre,4,4,4,3,3,5,2,3,4,3,4,35
+I.T de Merida,1,Sistemas,21,Hombre,2,3,2,2,1,4,1,1,4,1,3,21
+I.T de Merida,1,Sistemas,19,Hombre,1,1,1,1,1,5,1,1,5,1,2,18
+I.T de Merida,1,Sistemas,19,Hombre,3,4,4,3,3,4,2,2,4,4,4,33
+I.T de Merida,1,Sistemas,19,Hombre,4,3,3,4,3,4,3,3,4,3,4,34
+I.T de Merida,1,Sistemas,19,Hombre,3,3,2,3,3,4,4,3,5,5,4,35
+I.T de Merida,1,Sistemas,24,Hombre,3,3,1,4,3,4,3,2,5,2,3,30
+I.T de Merida,1,Sistemas,20,Mujer,1,1,1,1,1,1,1,1,1,1,1,10
+I.T de Merida,1,Sistemas,19,Hombre,2,3,3,2,2,4,1,1,5,4,3,27
+I.T de Merida,1,Sistemas,19,Hombre,1,1,1,1,1,5,1,1,4,1,2,17
+I.T de Merida,1,Sistemas,19,Hombre,1,1,1,1,1,1,1,1,4,4,2,16
+I.T de Merida,1,Sistemas,19,Hombre,2,2,3,1,1,1,1,1,1,3,2,16
+I.T de Merida,1,Sistemas,19,Hombre,1,1,1,4,1,4,4,1,5,5,3,27
+I.T de Merida,1,Sistemas,19,Hombre,3,2,3,4,4,3,4,2,5,3,4,33
+I.T de Merida,1,Sistemas,19,Mujer,3,2,3,1,2,4,2,1,5,3,3,26
+I.T de Merida,1,Sistemas,19,Hombre,1,2,2,2,2,1,1,1,5,5,3,22
+I.T de Merida,1,Sistemas,19,Hombre,2,2,2,1,1,1,1,1,5,1,2,17
+I.T de Merida,1,Sistemas,18,Hombre,5,4,4,2,1,5,3,2,5,4,4,35
+I.T de Merida,1,Sistemas,19,Hombre,4,2,2,4,2,5,2,2,5,5,4,33
+I.T de Merida,1,Sistemas,19,Hombre,3,3,3,3,2,4,3,2,5,4,4,32
+I.T de Merida,1,Sistemas,19,Hombre,3,2,2,1,1,3,1,1,5,4,3,23
+I.T de Tuxtla Gutierrez,1,Sistemas,19,Hombre,1,1,1,1,1,4,2,1,5,5,3,22
+I.T de Merida,1,Sistemas,19,Hombre,3,2,2,1,1,5,1,1,5,1,3,22
+I.T de Merida,1,Sistemas,18,Hombre,4,5,3,5,4,2,3,3,5,3,4,37
+I.T de Merida,1,Sistemas,19,Mujer,4,3,2,3,1,4,3,2,5,1,3,28
+I.T de Merida,1,Sistemas,18,Hombre,4,4,4,3,2,5,4,3,5,1,4,35
+I.T de Merida,1,Sistemas,18,Hombre,1,2,1,2,1,4,1,1,4,5,3,22
+I.T de Merida,1,Sistemas,19,Hombre,4,3,2,2,2,5,2,1,5,2,3,28
+I.T de Merida,1,Sistemas,18,Hombre,4,4,4,3,1,4,1,3,4,1,3,29
+I.T de Merida,1,Sistemas,18,Hombre,3,3,4,3,2,4,4,4,4,1,4,32
+I.T de Merida,1,Sistemas,20,Mujer,3,4,4,4,4,3,4,4,3,4,4,37
+I.T de Merida,1,Sistemas,18,Hombre,3,4,4,4,4,3,4,4,4,4,4,38
+I.T de Tuxtla Gutierrez,1,Sistemas,19,Mujer,4,3,4,4,2,5,4,3,5,5,4,39
+I.T de Merida,1,Sistemas,19,Hombre,1,1,1,2,1,5,3,2,4,3,3,23
+I.T de Merida,1,Sistemas,18,Hombre,4,3,4,3,4,1,5,3,5,3,4,35
+I.T de Merida,1,Sistemas,18,Hombre,1,3,1,1,1,4,4,1,5,5,3,26
+I.T de Merida,1,Sistemas,19,Mujer,3,3,3,3,3,4,4,2,4,2,4,31
+I.T de Merida,1,Sistemas,19,Hombre,3,3,3,3,3,3,3,3,3,3,3,30
+I.T de Merida,1,Sistemas,19,Hombre,3,3,3,3,3,3,3,3,3,3,4,33
+I.T de Merida,1,Sistemas,19,Hombre,3,2,2,2,2,4,3,2,4,5,3,29
+I.T de Merida,1,Sistemas,19,Hombre,4,4,3,4,3,4,4,3,5,4,4,38
+I.T de Tuxtla Gutierrez,1,Sistemas,19,Hombre,3,3,3,4,4,5,5,4,5,5,5,41
+I.T de Merida,1,Sistemas,19,Hombre,2,2,2,2,2,2,2,2,4,2,3,22
+I.T de Merida,1,Sistemas,19,Mujer,5,3,5,5,5,5,1,1,5,1,4,36
+I.T de Merida,1,Sistemas,18,Hombre,5,5,4,4,3,4,4,4,4,3,4,40
+I.T de Merida,1,Sistemas,20,Hombre,2,2,2,3,4,4,4,3,5,5,4,34
+I.T de Merida,1,Sistemas,19,Mujer,3,2,2,1,1,5,2,1,5,1,3,23
+I.T de Tuxtla Gutierrez,1,Sistemas,18,Mujer,3,3,4,4,2,4,3,3,4,2,4,32
+I.T de Tuxtla Gutierrez,1,Sistemas,19,Hombre,2,2,1,3,3,5,3,4,4,4,4,31
+I.T de Merida,2,Sistemas,18,Hombre,2,2,3,2,1,4,2,2,4,2,3,24
+I.T de Merida,3,Sistemas,19,Hombre,3,2,2,1,1,4,3,1,5,3,3,25
+I.T de Merida,3,Sistemas,19,Hombre,1,1,3,4,1,5,1,1,5,5,3,27
+I.T de Merida,3,Sistemas,20,Hombre,3,2,1,4,3,4,3,2,1,1,3,24
+I.T de Merida,3,Sistemas,20,Hombre,4,4,3,4,5,5,5,5,5,5,5,45
+I.T de Tuxtla Gutierrez,4,Bioquimica,20,Hombre,4,4,3,4,5,5,5,5,5,5,5,45
+I.T de Tuxtla Gutierrez,4,Bioquimica,19,Hombre,4,1,3,3,3,1,2,3,5,2,3,27
+I.T de Tuxtla Gutierrez,4,Bioquimica,20,Mujer,5,4,5,5,5,3,5,5,3,5,5,45
+I.T de Tuxtla Gutierrez,4,Bioquimica,19,Mujer,5,5,5,5,5,5,5,5,2,5,5,47
+I.T de Tuxtla Gutierrez,4,Bioquimica,20,Mujer,1,1,3,4,1,4,2,3,4,5,3,28
+I.T de Tuxtla Gutierrez,4,Bioquimica,20,Mujer,3,2,3,3,1,5,3,1,5,4,3,30
+I.T de Tuxtla Gutierrez,4,Bioquimica,20,Mujer,1,1,1,1,1,4,1,2,5,4,3,21
+I.T de Tuxtla Gutierrez,6,Bioquimica,22,Mujer,3,1,1,1,1,5,1,1,5,5,3,24
+I.T de Tuxtla Gutierrez,6,Bioquimica,21,Mujer,2,2,3,2,2,4,4,2,5,2,3,28
+I.T de Tuxtla Gutierrez,6,Bioquimica,20,Hombre,2,2,3,4,1,5,3,3,5,3,4,31
+I.T de Tuxtla Gutierrez,6,Bioquimica,20,Hombre,2,2,4,5,3,4,3,3,5,5,4,36
+I.T de Tuxtla Gutierrez,6,Bioquimica,20,Mujer,4,4,4,5,2,5,3,3,4,5,4,39
+I.T de Tuxtla Gutierrez,6,Bioquimica,21,Hombre,4,3,4,3,4,3,4,3,4,3,4,35
+I.T de Tuxtla Gutierrez,6,Bioquimica,21,Mujer,4,3,4,3,4,3,4,3,4,3,4,39
+I.T de Tuxtla Gutierrez,6,Bioquimica,21,Hombre,4,3,2,3,2,5,2,2,4,3,3,30
+I.T de Tuxtla Gutierrez,6,Bioquimica,20,Mujer,3,3,2,2,1,4,2,2,4,5,3,28
+I.T de Tuxtla Gutierrez,6,Bioquimica,20,Mujer,1,1,1,1,1,1,1,1,1,1,1,10
+I.T de Tuxtla Gutierrez,6,Bioquimica,21,Mujer,1,1,2,2,2,2,2,2,3,3,2,20
+I.T de Tuxtla Gutierrez,6,Bioquimica,21,Hombre,4,3,3,4,4,4,4,4,5,4,4,39
+I.T de Tuxtla Gutierrez,6,Bioquimica,20,Mujer,3,3,3,5,1,3,5,4,2,5,4,34
+I.T de Tuxtla Gutierrez,8,Sistemas,21,Hombre,1,1,1,1,1,5,3,1,5,5,3,24
+I.T de Tuxtla Gutierrez,8,Sistemas,21,Hombre,3,3,3,3,3,3,3,3,3,3,3,30
+I.T de Tuxtla Gutierrez,8,Sistemas,22,Hombre,2,2,2,2,1,4,3,1,5,3,3,25
+I.T de Tuxtla Gutierrez,8,Sistemas,22,Hombre,3,3,4,2,2,4,2,4,4,2,3,30
+I.T de Tuxtla Gutierrez,8,Sistemas,24,Hombre,3,4,5,1,1,5,1,1,5,1,3,27
+I.T de Tuxtla Gutierrez,8,Sistemas,22,Mujer,4,1,1,1,1,5,1,1,5,1,3,21
+I.T de Tuxtla Gutierrez,8,Sistemas,21,Hombre,1,1,1,1,1,1,1,1,2,1,2,11
+I.T de Tuxtla Gutierrez,8,Sistemas,22,Hombre,4,2,4,5,3,5,5,4,4,5,5,41
+I.T de Tuxtla Gutierrez,8,Sistemas,21,Mujer,2,2,2,4,2,4,3,4,4,1,3,28
+I.T de Tuxtla Gutierrez,8,Sistemas,21,Hombre,4,4,4,2,1,5,5,3,5,2,4,35
+I.T de Tuxtla Gutierrez,8,Bioquimica,22,Hombre,4,1,1,1,1,4,1,1,5,5,3,24
+I.T de Tuxtla Gutierrez,8,Bioquimica,21,Hombre,4,4,4,4,5,4,2,3,5,1,4,36
+I.T de Tuxtla Gutierrez,8,Bioquimica,22,Mujer,1,1,4,5,4,5,1,1,4,1,3,27
+I.T de Tuxtla Gutierrez,8,Bioquimica,21,Mujer,1,1,1,1,1,1,1,1,1,1,1,10
+I.T de Tuxtla Gutierrez,8,Bioquimica,21,Mujer,4,3,4,4,4,4,4,4,4,4,4,39
+I.T de Tuxtla Gutierrez,8,Bioquimica,21,Hombre,4,3,3,4,2,4,2,2,4,3,4,31
+I.T de Tuxtla Gutierrez,8,Bioquimica,21,Mujer,1,1,1,1,1,5,1,1,5,5,3,22
+I.T de Tuxtla Gutierrez,8,Bioquimica,21,Mujer,1,2,1,1,1,1,2,1,2,1,2,13
+I.T de Tuxtla Gutierrez,8,Bioquimica,21,Mujer,2,3,1,3,1,5,3,2,4,5,3,29
+I.T de Tuxtla Gutierrez,8,Bioquimica,22,Hombre,4,3,4,4,2,4,2,1,5,2,4,31
+I.T de Tuxtla Gutierrez,8,Bioquimica,22,Hombre,1,1,1,3,1,4,2,1,5,4,3,23
+I.T de Tuxtla Gutierrez,8,Bioquimica,22,Hombre,1,1,2,1,1,5,5,1,1,1,2,19
+I.T de Tuxtla Gutierrez,8,Bioquimica,23,Mujer,3,4,2,2,2,3,4,2,4,5,4,31
+I.T de Tuxtla Gutierrez,8,Bioquimica,22,Hombre,4,3,2,4,1,4,2,1,5,5,4,31
+I.T de Tuxtla Gutierrez,8,Bioquimica,21,Mujer,4,4,5,4,3,5,4,4,5,5,5,43
+I.T de Tuxtla Gutierrez,8,Bioquimica,21,Hombre,2,2,2,3,1,4,3,3,4,3,3,27
+I.T de Tuxtla Gutierrez,8,Bioquimica,21,Hombre,5,5,4,5,5,4,4,4,5,2,5,43
+I.T de Tuxtla Gutierrez,8,Bioquimica,21,Mujer,1,1,1,1,1,5,1,2,5,1,2,19
+I.T de Tuxtla Gutierrez,8,Bioquimica,22,Mujer,4,4,4,4,3,4,4,4,3,4,4,38
+I.T de Tuxtla Gutierrez,8,Bioquimica,21,Hombre,4,4,4,4,4,4,4,4,4,4,4,40
+I.T de Tuxtla Gutierrez,8,Bioquimica,22,Mujer,1,2,1,3,1,5,3,1,5,5,3,27
+I.T de Tuxtla Gutierrez,8,Bioquimica,22,Mujer,1,2,1,3,4,5,2,1,5,5,3,29
+I.T de Tuxtla Gutierrez,8,Bioquimica,22,Mujer,3,3,3,3,4,4,4,4,5,1,4,34
+I.T de Tuxtla Gutierrez,8,Bioquimica,21,Hombre,2,2,2,2,2,4,2,2,4,2,3,24
+I.T de Tuxtla Gutierrez,8,Bioquimica,22,Hombre,3,3,3,2,2,5,2,2,5,1,3,28
+I.T de Tuxtla Gutierrez,8,Bioquimica,22,Mujer,3,3,4,4,2,4,3,3,4,4,4,34
+I.T de Tuxtla Gutierrez,8,Bioquimica,21,Hombre,3,2,3,4,4,4,4,4,4,4,4,36
+I.T de Tuxtla Gutierrez,8,Bioquimica,21,Mujer,1,1,1,1,1,1,1,1,1,1,1,10
+I.T de Tuxtla Gutierrez,8,Bioquimica,21,Mujer,1,1,1,1,1,4,1,1,5,1,2,17
+I.T de Tuxtla Gutierrez,8,Bioquimica,21,Mujer,4,4,3,3,2,3,4,3,4,2,4,32
+I.T de Tuxtla Gutierrez,8,Bioquimica,21,Mujer,2,4,4,2,5,5,5,2,5,4,4,38
+I.T de Tuxtla Gutierrez,8,Bioquimica,21,Mujer,2,4,4,2,5,5,5,2,5,4,4,40
+I.T de Tuxtla Gutierrez,8,Bioquimica,23,Hombre,1,1,1,1,1,1,1,1,1,1,1,10
+I.T de Tuxtla Gutierrez,8,Bioquimica,21,Hombre,1,1,1,1,1,1,1,1,1,1,2,11
+I.T de Tuxtla Gutierrez,8,Bioquimica,21,Hombre,3,4,2,3,1,4,2,2,5,2,3,28
+I.T de Tuxtla Gutierrez,8,Bioquimica,22,Hombre,4,4,4,4,4,3,3,3,5,5,4,39
+I.T de Tuxtla Gutierrez,8,Bioquimica,23,Hombre,1,2,3,4,3,5,1,1,5,1,3,26
+I.T de Tuxtla Gutierrez,8,Bioquimica,23,Mujer,4,4,4,3,3,5,2,3,4,3,4,35
+I.T de Tuxtla Gutierrez,9,Bioquimica,21,Mujer,2,3,2,2,1,4,1,1,4,1,3,21
+I.T de Tuxtla Gutierrez,10,Bioquimica,24,Hombre,4,4,4,4,4,4,4,4,4,4,4,40
+I.T de Tuxtla Gutierrez,1,Sistemas,18,Mujer,2,2,2,3,4,4,4,3,5,5,4,34
+I.T de Tuxtla Gutierrez,1,Sistemas,19,Hombre,3,4,2,3,3,3,3,3,3,3,3,30
+I.T de Tuxtla Gutierrez,1,Sistemas,19,Hombre,3,4,2,3,3,3,3,3,3,3,4,33
+I.T de Tuxtla Gutierrez,1,Sistemas,19,Mujer,1,1,1,3,1,4,3,1,5,1,3,21
+I.T de Tuxtla Gutierrez,1,Sistemas,19,Hombre,5,4,3,4,2,5,5,3,5,5,5,41
+I.T de Tuxtla Gutierrez,1,Sistemas,18,Hombre,2,2,4,4,3,4,4,4,5,4,4,36
+I.T de Tuxtla Gutierrez,1,Sistemas,18,Mujer,2,2,2,4,3,4,4,3,4,4,4,32
+I.T de Tuxtla Gutierrez,1,Sistemas,23,Hombre,2,2,2,2,1,4,2,1,5,5,3,26
+I.T de Tuxtla Gutierrez,1,Sistemas,18,Hombre,1,1,3,1,1,5,1,1,4,4,3,22
+I.T de Tuxtla Gutierrez,1,Sistemas,18,Hombre,2,2,2,3,1,5,4,1,5,1,3,26
+I.T de Tuxtla Gutierrez,1,Sistemas,19,Hombre,1,4,2,4,4,4,3,4,4,3,4,33
+I.T de Tuxtla Gutierrez,1,Sistemas,18,Hombre,1,1,1,2,1,5,3,1,5,1,3,21
+I.T de Tuxtla Gutierrez,1,Sistemas,20,Hombre,3,3,4,3,2,5,4,3,5,5,4,37
+I.T de Tuxtla Gutierrez,1,Sistemas,18,Hombre,3,3,4,4,3,4,4,3,4,3,4,35
+I.T de Tuxtla Gutierrez,1,Sistemas,18,Hombre,2,2,2,2,2,4,2,2,4,2,3,24
+I.T de Tuxtla Gutierrez,6,Sistemas,26,Hombre,1,1,2,1,1,5,2,1,5,1,2,20
+I.T de Tuxtla Gutierrez,8,Sistemas,21,Hombre,2,2,2,1,1,4,1,1,4,3,3,21
+I.T de Tuxtla Gutierrez,6,Sistemas,21,Hombre,4,3,3,3,4,4,3,3,4,4,4,35
+I.T de Tuxtla Gutierrez,6,Sistemas,20,Hombre,3,3,3,2,2,4,2,2,4,1,3,26
+I.T de Tuxtla Gutierrez,6,Sistemas,20,Hombre,1,2,2,2,2,4,3,1,4,1,3,22
+I.T de Tuxtla Gutierrez,6,Quimica,21,Hombre,3,1,1,2,1,5,3,1,5,3,3,25
+I.T de Tuxtla Gutierrez,6,Sistemas,21,Hombre,4,4,4,5,5,3,4,4,4,3,4,40
+I.T de Tuxtla Gutierrez,6,Sistemas,20,Hombre,2,2,2,2,3,2,3,4,3,2,3,25
+I.T de Tuxtla Gutierrez,6,Sistemas,20,Hombre,2,2,2,3,2,4,3,1,4,3,3,26
+I.T de Tuxtla Gutierrez,6,Sistemas,20,Hombre,2,2,2,2,1,1,1,1,5,5,3,22
+I.T de Tuxtla Gutierrez,6,Sistemas,21,Hombre,3,4,4,4,4,3,2,2,4,2,4,32
+I.T de Tuxtla Gutierrez,6,Sistemas,20,Hombre,1,1,1,1,1,1,2,1,4,1,2,14
+I.T de Tuxtla Gutierrez,6,Sistemas,21,Hombre,5,5,4,4,2,3,4,2,3,4,4,36
+I.T de Tuxtla Gutierrez,6,Sistemas,21,Hombre,4,4,4,4,2,4,3,3,4,5,4,37
+I.T de Tuxtla Gutierrez,6,Sistemas,20,Hombre,2,2,2,1,1,4,2,1,4,4,3,23
+I.T de Tuxtla Gutierrez,6,Sistemas,20,Hombre,3,3,4,4,2,3,4,2,5,5,4,35
+I.T de Tuxtla Gutierrez,6,Sistemas,20,Hombre,3,3,4,4,2,3,4,2,5,5,4,35
+I.T de Tuxtla Gutierrez,6,Sistemas,20,Hombre,4,3,3,4,1,5,3,1,5,4,4,33
+I.T de Tuxtla Gutierrez,6,Sistemas,21,Hombre,2,1,2,1,1,5,1,1,5,1,2,20
+I.T de Tuxtla Gutierrez,6,Sistemas,20,Hombre,2,2,2,2,2,4,3,1,5,1,3,24
+I.T de Tuxtla Gutierrez,6,Sistemas,20,Hombre,4,4,4,4,5,3,4,4,3,3,4,38
+I.T de Tuxtla Gutierrez,6,Sistemas,21,Hombre,1,1,1,1,1,1,1,1,1,1,1,10
+I.T de Tuxtla Gutierrez,6,Sistemas,21,Hombre,4,3,3,1,1,4,5,3,5,5,4,34
+I.T de Tuxtla Gutierrez,6,Sistemas,21,Hombre,1,1,1,1,1,5,2,2,5,2,3,21
+I.T de Tuxtla Gutierrez,5,Sistemas,20,Hombre,3,2,2,4,2,4,4,2,4,3,3,30
+I.T de Tuxtla Gutierrez,8,Sistemas,22,Mujer,2,1,2,2,1,4,1,2,3,3,3,21
+I.T de Tuxtla Gutierrez,6,Sistemas,20,Hombre,5,5,5,3,2,3,2,2,4,2,4,33
+I.T de Tuxtla Gutierrez,6,Sistemas,20,Hombre,1,1,1,3,1,5,1,1,5,3,3,22
+I.T de Tuxtla Gutierrez,6,Sistemas,19,Hombre,3,3,3,4,3,3,2,2,4,2,3,29
+I.T de Tuxtla Gutierrez,6,Sistemas,20,Hombre,5,5,5,5,2,1,2,2,3,4,4,34
+I.T de Tuxtla Gutierrez,6,Sistemas,21,Hombre,3,4,4,2,2,2,4,2,5,1,3,29
+I.T de Tuxtla Gutierrez,8,Sistemas,22,Mujer,1,3,3,3,3,3,3,3,3,3,4,31
+I.T de Tuxtla Gutierrez,6,Sistemas,19,Hombre,1,3,3,3,3,3,3,3,3,3,3,28
+I.T de Tuxtla Gutierrez,1,Sistemas,18,Hombre,1,1,3,2,2,5,2,1,5,5,3,27
+I.T de Tuxtla Gutierrez,6,Sistemas,20,Hombre,2,2,2,4,4,4,4,2,5,1,3,30
+I.T de Tuxtla Gutierrez,6,Sistemas,21,Hombre,3,3,2,2,2,4,2,2,4,3,3,27
+I.T de Tuxtla Gutierrez,6,Sistemas,20,Hombre,3,3,2,2,3,4,3,3,5,3,4,31
+I.T de Tuxtla Gutierrez,6,Sistemas,20,Hombre,2,3,4,2,1,4,3,3,4,5,4,31
+I.T de Tuxtla Gutierrez,7,Sistemas,21,Hombre,3,3,2,2,1,5,3,3,5,1,3,28
+I.T de Tuxtla Gutierrez,6,Sistemas,20,Hombre,4,3,2,5,3,5,3,3,4,5,4,37
+I.T de Tuxtla Gutierrez,6,Sistemas,21,Hombre,2,2,2,2,2,4,2,1,3,4,3,24
+I.T de Tuxtla Gutierrez,6,Sistemas,21,Hombre,2,2,3,3,1,5,2,3,5,1,3,27
+I.T de Tuxtla Gutierrez,6,Sistemas,21,Hombre,3,3,1,1,1,5,1,1,5,5,3,26
+I.T de Tuxtla Gutierrez,6,Sistemas,20,Mujer,4,4,4,4,4,5,4,3,4,4,4,40
+I.T de Tuxtla Gutierrez,6,Sistemas,21,Hombre,4,2,3,2,2,4,3,2,4,2,3,28
+I.T de Tuxtla Gutierrez,6,Sistemas,21,Hombre,4,5,5,3,2,3,5,5,5,2,4,39
+I.T de Tuxtla Gutierrez,6,Sistemas,20,Hombre,4,3,4,3,4,5,3,2,5,3,4,36
+I.T de Tuxtla Gutierrez,6,Sistemas,21,Hombre,3,4,3,4,2,4,3,4,5,5,4,37
+I.T de Tuxtla Gutierrez,6,Sistemas,21,Mujer,4,4,5,4,4,5,4,2,5,3,4,40
+I.T de Tuxtla Gutierrez,7,Sistemas,23,Hombre,1,1,1,4,2,5,3,4,5,2,3,28
+I.T de Tuxtla Gutierrez,6,Sistemas,20,Mujer,1,1,2,4,1,5,1,1,4,5,3,25
+I.T de Tuxtla Gutierrez,6,Sistemas,21,Hombre,2,2,2,3,1,4,3,3,4,3,3,27
+I.T de Tuxtla Gutierrez,6,Sistemas,20,Mujer,5,5,4,5,5,4,4,4,5,2,5,43
+I.T de Tuxtla Gutierrez,6,Sistemas,21,Hombre,1,1,1,1,1,5,1,2,5,1,2,19
+I.T de Tuxtla Gutierrez,6,Sistemas,20,Hombre,4,4,4,4,3,4,4,4,3,4,4,38
+I.T de Tuxtla Gutierrez,6,Sistemas,22,Hombre,4,4,4,4,4,4,4,4,4,4,4,40
+I.T de Tuxtla Gutierrez,6,Sistemas,20,Hombre,1,2,1,3,1,5,3,1,5,5,3,27
+I.T de Tuxtla Gutierrez,1,Sistemas,19,Hombre,1,1,2,4,1,5,1,1,4,5,3,25
+I.T de Tuxtla Gutierrez,1,Sistemas,19,Hombre,2,2,1,3,2,2,4,2,4,2,3,24
+I.T de Tuxtla Gutierrez,8,Sistemas,22,Hombre,1,2,3,2,2,4,2,1,5,4,3,26
+I.T de Tuxtla Gutierrez,1,Sistemas,18,Hombre,3,1,1,4,4,4,4,2,4,3,3,30
+I.T de Tuxtla Gutierrez,8,Sistemas,21,Hombre,1,1,1,1,1,4,2,2,4,5,3,22
+I.T de Tuxtla Gutierrez,8,Sistemas,24,Mujer,5,5,5,3,3,5,1,3,5,5,4,40
+I.T de Tuxtla Gutierrez,1,Sistemas,18,Hombre,1,1,1,2,1,5,2,2,5,5,3,25
+I.T de Tuxtla Gutierrez,1,Sistemas,19,Hombre,5,5,4,4,5,5,5,4,5,3,5,45
+I.T de Tuxtla Gutierrez,1,Sistemas,18,Hombre,2,1,1,1,1,4,1,1,4,4,2,20
+I.T de Tuxtla Gutierrez,1,Sistemas,18,Hombre,4,3,3,4,3,4,4,3,5,4,4,37
+I.T de Tuxtla Gutierrez,1,Sistemas,19,Hombre,3,2,3,2,1,4,2,2,5,2,3,26
+I.T de Tuxtla Gutierrez,8,Sistemas,22,Hombre,3,3,3,4,2,4,3,2,4,4,4,32
+I.T de Tuxtla Gutierrez,8,Sistemas,22,Hombre,2,2,2,2,2,4,3,4,4,4,3,29
+I.T de Tuxtla Gutierrez,8,Sistemas,22,Hombre,3,3,3,3,3,3,3,3,3,3,3,30
+I.T de Tuxtla Gutierrez,8,Sistemas,22,Mujer,4,3,3,4,2,4,2,2,4,2,3,30
+I.T de Tuxtla Gutierrez,1,Sistemas,19,Hombre,1,1,1,1,1,1,1,1,1,1,1,10
+I.T de Tuxtla Gutierrez,8,Sistemas,21,Hombre,3,3,3,3,3,3,3,3,4,3,4,31
+I.T de Tuxtla Gutierrez,8,Sistemas,22,Hombre,2,2,2,3,1,4,2,1,4,5,3,26
+I.T de Tuxtla Gutierrez,8,Sistemas,22,Hombre,2,2,3,2,2,4,2,2,4,2,3,25
+I.T de Tuxtla Gutierrez,8,Sistemas,21,Hombre,3,3,3,4,2,5,4,2,4,1,4,31
+I.T de Tuxtla Gutierrez,8,Sistemas,21,Mujer,3,1,1,3,1,5,3,1,5,3,3,26
+I.T de Tuxtla Gutierrez,8,Sistemas,25,Hombre,4,4,3,3,2,4,3,1,5,5,4,34
+I.T de Tuxtla Gutierrez,8,Sistemas,22,Hombre,2,3,3,4,4,1,3,2,5,5,4,32
+I.T de Tuxtla Gutierrez,8,Sistemas,21,Hombre,3,3,2,4,2,5,2,1,4,4,3,30
+I.T de Tuxtla Gutierrez,8,Sistemas,23,Mujer,4,4,3,3,4,5,4,4,5,3,4,39
+I.T de Tuxtla Gutierrez,8,Sistemas,21,Mujer,1,1,1,1,1,5,1,2,5,1,2,19
+I.T de Tuxtla Gutierrez,8,Sistemas,21,Mujer,3,3,3,3,3,3,3,1,5,5,4,32
+I.T de Tuxtla Gutierrez,8,Sistemas,21,Hombre,1,1,1,1,1,1,1,1,1,1,1,10
+I.T de Tuxtla Gutierrez,8,Sistemas,22,Hombre,3,2,2,4,2,4,4,2,3,3,3,29
+I.T de Tuxtla Gutierrez,8,Sistemas,21,Hombre,3,3,3,4,2,5,4,2,4,1,4,31
+I.T de Tuxtla Gutierrez,8,Sistemas,23,Hombre,2,2,2,3,1,4,2,1,4,5,3,26
+I.T de Tuxtla Gutierrez,2,Gestion Empresarial,19,Mujer,2,3,3,4,4,1,3,2,5,5,4,32
+I.T de Tuxtla Gutierrez,8,Sistemas,22,Hombre,5,4,3,3,3,4,1,1,5,2,4,31
+I.T de Tuxtla Gutierrez,4,Bioquimica,22,Mujer,1,2,1,1,1,4,1,2,5,2,2,20
+I.T de Tuxtla Gutierrez,4,Bioquimica,21,Hombre,4,4,4,4,4,5,3,1,4,5,4,38
+I.T de Tuxtla Gutierrez,8,Sistemas,21,Hombre,4,4,4,3,4,3,3,3,4,4,4,36
+I.T de Tuxtla Gutierrez,2,Bioquimica,20,Mujer,1,1,1,1,1,1,1,1,1,1,1,10
+I.T de Tuxtla Gutierrez,1,Sistemas,19,Hombre,3,4,2,3,3,3,3,3,3,3,4,33
